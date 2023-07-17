@@ -29,8 +29,8 @@ Technologies:
 3. Golang
 
 ## 📫 How to Reach Me
-Email: ah_boon95@hotmail.com
-Linkedin: https://www.linkedin.com/in/yee-boon-saw/
+- Email: ah_boon95@hotmail.com
+- Linkedin: https://www.linkedin.com/in/yee-boon-saw/
 
 ## ❤️ Support Me
 
