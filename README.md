@@ -6,12 +6,8 @@ Going to explore and expand myself more into different tech stacks with this new
 ## 🚀 My GitHub Stats
 [![CodeByBoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=codebyboon&theme=midnight-purple&show_icons=true)](https://github.com/codebyboon/github-readme-stats)
 
-## 🔧 Technologies & Tools
-Programming Languages:
-1. Javascript
-2. Java
-3. C#
-4. Python
+## 🔧 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codebyboon&size_weight=0.5&count_weight=0.5)
 
 Technologies:
 1. Siebel
