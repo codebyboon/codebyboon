@@ -4,7 +4,7 @@ I have been working in Accenture Malaysia for ~6 years. Latest job scope was to 
 Going to explore and expand myself more into different tech stacks with this new GitHub profile, keep learning and building! 🦾 
 
 ## 🚀 My GitHub Stats
-[![CodeByBoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=codebyboon)](https://github.com/codebyboon/github-readme-stats)
+[![CodeByBoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=codebyboon&theme=midnight-purple&show_icons=true)](https://github.com/codebyboon/github-readme-stats)
 
 ## 🔧 Technologies & Tools
 Programming Languages:
