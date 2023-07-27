@@ -10,7 +10,7 @@ Going to explore and expand myself more into different tech stacks with this new
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codebyboon&size_weight=0.5&count_weight=0.5)
 
 Technologies:
-1. Siebel
+1. Siebel (with Javascript & Java)
 2. Informix
 3. Actuate Report
 
@@ -20,9 +20,8 @@ Technologies:
 
 ## 🌱 Currently Learning
 
-1. Flutter
-2. Web Dev tech stack
-3. Golang
+1. Web Dev tech stack
+2. Golang
 
 ## 📫 How to Reach Me
 - Email: ah_boon95@hotmail.com
