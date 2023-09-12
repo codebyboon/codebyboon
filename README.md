@@ -7,7 +7,7 @@ Going to explore and expand myself more into different tech stacks with this new
 [![CodeByBoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=codebyboon&theme=midnight-purple&show_icons=true)](https://github.com/codebyboon/github-readme-stats)
 
 ## 🔧 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codebyboon&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codebyboon&size_weight=0.5&count_weight=0.5&langs_count=8)
 
 Technologies:
 1. Siebel (with Javascript & Java)
