@@ -9,7 +9,7 @@ Going to explore and expand myself more into different tech stacks with this new
 ## 🔧 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codebyboon&size_weight=0.5&count_weight=0.5&langs_count=8)
 
-# Tech Stack
+## ⌨️ Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,react,js,ts,tailwind,mysql" />
@@ -20,9 +20,9 @@ Technologies:
 2. Informix
 3. Actuate Report
 
-## 📚 Featured Projects
+## 📚 Currently Working On
 
-*Going to update here with new indie projects that im working on*
+Landing Page for parktech.com.my
 
 ## 🌱 Currently Learning
 
