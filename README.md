@@ -9,6 +9,12 @@ Going to explore and expand myself more into different tech stacks with this new
 ## 🔧 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codebyboon&size_weight=0.5&count_weight=0.5&langs_count=8)
 
+# Tech Stack
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,react,js,ts,tailwind,mysql" />
+  </a>
+</p>
 Technologies:
 1. Siebel (with Javascript & Java)
 2. Informix
@@ -20,17 +26,14 @@ Technologies:
 
 ## 🌱 Currently Learning
 
-1. Web Dev tech stack
-2. Golang
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,rust,tauri" />
+  </a>
+</p>
 
 ## 📫 How to Reach Me
 - Email: codebyboon@gmail.com
-- Linkedin: https://www.linkedin.com/in/yee-boon-saw/
-
-## ❤️ Support Me
-
-
-
-## 📝 License
+- ![[LinkedIn] (https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yee-boon-saw/)
 
 
