@@ -18,7 +18,10 @@ Going to explore and expand myself more into different tech stacks with this new
 
 ## 📚 Currently Working On
 
-Landing Page for parktech.com.my
+| Project    | Tech Stack |
+| -------- | ------- |
+| Parktech Landing Page  | AstroJS, Typescript    |
+
 
 ## 🌱 Currently Learning
 
