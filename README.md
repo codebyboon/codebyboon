@@ -5,10 +5,6 @@ Going to explore and expand myself more into different tech stacks with this new
 <br />
 <br />
 
-## 🔧 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codebyboon&size_weight=0.5&count_weight=0.5&langs_count=8)
-<br />
-
 ## ⌨️ Tech Stack
 <p align="left">
   <a href="https://skillicons.dev">
@@ -21,6 +17,10 @@ Going to explore and expand myself more into different tech stacks with this new
 | Project    | Tech Stack |
 | -------- | ------- |
 | Parktech Landing Page  | ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white)    |
+<br />
+
+## 🔧 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codebyboon&size_weight=0.5&count_weight=0.5&langs_count=8)
 <br />
 
 ## 🌱 Currently Learning
