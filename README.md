@@ -3,8 +3,12 @@
 I have been working in Accenture Malaysia for ~6 years. Latest job scope was to lead a team of developers to deliver projects for SG banking client, using Siebel (including Javascript & Java) as day to day tool. 
 Going to explore and expand myself more into different tech stacks with this new GitHub profile, keep learning and building! 🦾 
 
+
+
 ## 🔧 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codebyboon&size_weight=0.5&count_weight=0.5&langs_count=8)
+
+
 
 ## ⌨️ Tech Stack
 <p align="left">
@@ -13,11 +17,15 @@ Going to explore and expand myself more into different tech stacks with this new
   </a>
 </p>
 
+
+
 ## 📚 Currently Working On
 
 | Project    | Tech Stack |
 | -------- | ------- |
 | Parktech Landing Page  | ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white)    |
+
+
 
 ## 🌱 Currently Learning
 
@@ -27,11 +35,12 @@ Going to explore and expand myself more into different tech stacks with this new
   </a>
 </p>
 
-## Leetcode Stats
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=codebyboon&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
-## 🚀 My GitHub Stats
-[![CodeByBoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=codebyboon&theme=midnight-purple&show_icons=true)](https://github.com/codebyboon/github-readme-stats)
+
+## 🚀 Stats
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=codebyboon&theme=dark)](https://github.com/KnlnKS/leetcode-stats)  [![CodeByBoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=codebyboon&theme=midnight-purple&show_icons=true)](https://github.com/codebyboon/github-readme-stats)
+
+
 
 ## 📫 How to Reach Me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ybsaw95@gmail.com)
