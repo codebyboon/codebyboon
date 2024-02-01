@@ -27,6 +27,9 @@ Going to explore and expand myself more into different tech stacks with this new
   </a>
 </p>
 
+## Leetcode Stats
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=codebyboon&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+
 ## 🚀 My GitHub Stats
 [![CodeByBoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=codebyboon&theme=midnight-purple&show_icons=true)](https://github.com/codebyboon/github-readme-stats)
 
