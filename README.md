@@ -20,7 +20,7 @@ Going to explore and expand myself more into different tech stacks with this new
 
 | Project    | Tech Stack |
 | -------- | ------- |
-| Parktech Landing Page  | AstroJS, Typescript    |
+| Parktech Landing Page  | ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white)    |
 
 
 ## 🌱 Currently Learning
