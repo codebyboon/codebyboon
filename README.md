@@ -15,10 +15,6 @@ Going to explore and expand myself more into different tech stacks with this new
     <img src="https://skillicons.dev/icons?i=py,react,js,ts,tailwind,mysql" />
   </a>
 </p>
-Technologies:
-1. Siebel (with Javascript & Java)
-2. Informix
-3. Actuate Report
 
 ## 📚 Currently Working On
 
