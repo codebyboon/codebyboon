@@ -23,6 +23,7 @@ Other Tools - Oracle Siebel CRM | Strapi (Headless CMS) | Docker <br />
 
 ## 🔧 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codebyboon&size_weight=0.5&count_weight=0.5&langs_count=8)
+
 <br />
 <br />
 
@@ -32,7 +33,6 @@ Other Tools - Oracle Siebel CRM | Strapi (Headless CMS) | Docker <br />
     <img src="https://skillicons.dev/icons?i=go,rust,tauri" />
   </a>
 </p>
-<br />
 <br />
 
 ## 🚀 Github Stats
