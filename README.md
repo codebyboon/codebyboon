@@ -20,10 +20,12 @@ Other Tools - Oracle Siebel CRM | Strapi (Headless CMS) | Docker <br />
 | [Parktech Landing Page](https://github.com/parktech-my/parktech-website)  | AstroJS, Typescript, Strapi | :x:IN PROGRESS |
 <br />
 <br />
+
 ## 🔧 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codebyboon&size_weight=0.5&count_weight=0.5&langs_count=8)
 <br />
 <br />
+
 ## 🌱 Currently Learning
 <p align="left">
   <a href="https://skillicons.dev">
@@ -32,6 +34,7 @@ Other Tools - Oracle Siebel CRM | Strapi (Headless CMS) | Docker <br />
 </p>
 <br />
 <br />
+
 ## 🚀 Github Stats
 [![CodeByBoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=codebyboon&theme=midnight-purple&show_icons=true)](https://github.com/codebyboon/github-readme-stats)
 <br />
