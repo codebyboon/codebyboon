@@ -13,6 +13,7 @@ Backend Frameworks - NodeJS | ExpressJS | NextJS
 Version Control – Git | GitHub
 Other Tools – Oracle Siebel CRM | Strapi (Headless CMS) | Docker
 Agile & Waterfall Methodologies
+<br />
 
 ## 📚 Projects
 | Project    | Tech Stack | Status
