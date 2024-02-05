@@ -16,10 +16,10 @@ Agile & Waterfall Methodologies
 
 ## 📚 Projects
 | Project    | Tech Stack | Status
-| -------- | ------- |
-| [Dezain-AI.com](https://dezain-ai.com/) | NextJS, Typescript, TailwindCSS, MySQL, OpenAI API, Clerk | :o:LIVE
-| [Web Automation Bot](https://github.com/codebyboon/pythonbot) | Python, Selenium | :white_check_mark:COMPLETED
-| [Parktech Landing Page](https://github.com/parktech-my/parktech-website)  | AstroJS, Typescript, Strapi | :x:In progress
+| -------- | ------- | ------- |
+| [Dezain-AI.com](https://dezain-ai.com/) | NextJS, Typescript, TailwindCSS, MySQL, OpenAI API, Clerk | :o:LIVE |
+| [Web Automation Bot](https://github.com/codebyboon/pythonbot) | Python, Selenium | :white_check_mark:COMPLETED | 
+| [Parktech Landing Page](https://github.com/parktech-my/parktech-website)  | AstroJS, Typescript, Strapi | :x:In progress |
 <br />
 
 ## 🔧 Most Used Languages
