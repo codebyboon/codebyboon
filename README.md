@@ -21,7 +21,7 @@ Going to explore and expand myself more into different tech stacks with this new
 
 ## 🔧 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codebyboon&layout=compact&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codebyboon&size_weight=0.5&count_weight=0.5&langs_count=8)
 
 ## 🌱 Currently Learning
 
