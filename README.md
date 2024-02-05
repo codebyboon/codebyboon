@@ -6,11 +6,11 @@ Going to explore and expand myself more into different tech stacks with this new
 <br />
 
 ## ⌨️ Tech Stack
-Programming Languages: Javascript, Typescript, Python, Informix 4GL, Tailwind CSS
-Databases: Oracle DB, MySQL, PostgreSQL
-Frontend Frameworks: ReactJS, NextJS, AstroJS
-Backend Frameworks: NodeJS, ExpressJS, NextJS
-Other Tools: Oracle Siebel CRM, Strapi (Headless CMS), Docker
+Programming Languages: Javascript, Typescript, Python, Informix 4GL, Tailwind CSS <br />
+Databases: Oracle DB, MySQL, PostgreSQL <br />
+Frontend Frameworks: ReactJS, NextJS, AstroJS <br />
+Backend Frameworks: NodeJS, ExpressJS, NextJS <br />
+Other Tools: Oracle Siebel CRM, Strapi (Headless CMS), Docker <br />
 <br />
 <br />
 
