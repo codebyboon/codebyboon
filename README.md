@@ -6,17 +6,20 @@ Going to explore and expand myself more into different tech stacks with this new
 <br />
 
 ## ⌨️ Tech Stack
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,react,js,ts,tailwind,mysql" />
-  </a>
-</p>
-<br />
+Programming Languages - Javascript | Typescript | Python | Informix 4GL | Tailwind CSS
+Databases - Oracle DB | MySQL | PostgreSQL
+Frontend Frameworks - ReactJS | NextJS | AstroJS
+Backend Frameworks - NodeJS | ExpressJS | NextJS
+Version Control – Git | GitHub
+Other Tools – Oracle Siebel CRM | Strapi (Headless CMS) | Docker
+Agile & Waterfall Methodologies
 
-## 📚 Currently Working On
-| Project    | Tech Stack |
+## 📚 Projects
+| Project    | Tech Stack | Status
 | -------- | ------- |
-| Parktech Landing Page  | ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white)    |
+| [Dezain-AI.com](https://dezain-ai.com/) | NextJS, Typescript, TailwindCSS, MySQL, OpenAI API, Clerk | :o:LIVE
+| [Web Automation Bot](https://github.com/codebyboon/pythonbot) | Python, Selenium | :white_check_mark:COMPLETED
+| [Parktech Landing Page](https://github.com/parktech-my/parktech-website)  | AstroJS, Typescript, Strapi | :x:In progress
 <br />
 
 ## 🔧 Most Used Languages
