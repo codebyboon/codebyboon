@@ -19,7 +19,7 @@ Agile & Waterfall Methodologies
 | -------- | ------- | ------- |
 | [Dezain-AI.com](https://dezain-ai.com/) | NextJS, Typescript, TailwindCSS, MySQL, OpenAI API, Clerk | :o:LIVE |
 | [Web Automation Bot](https://github.com/codebyboon/pythonbot) | Python, Selenium | :white_check_mark:COMPLETED | 
-| [Parktech Landing Page](https://github.com/parktech-my/parktech-website)  | AstroJS, Typescript, Strapi | :x:WIP |
+| [Parktech Landing Page](https://github.com/parktech-my/parktech-website)  | AstroJS, Typescript, Strapi | :x:IN PROGRESS |
 <br />
 
 ## 🔧 Most Used Languages
