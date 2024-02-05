@@ -14,7 +14,7 @@ Version Control – Git | GitHub
 Other Tools – Oracle Siebel CRM | Strapi (Headless CMS) | Docker
 Agile & Waterfall Methodologies
 <br />
-
+<br />
 
 ## 📚 Projects
 | Project    | Tech Stack | Status
