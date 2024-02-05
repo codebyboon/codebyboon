@@ -15,7 +15,7 @@ Going to explore and expand myself more into different tech stacks with this new
 
 | Project    | Tech Stack | Status |
 |------------|------------|--------|
-| [Dezain-AI.com](https://dezain-ai.com/) | NextJS, Typescript, TailwindCSS, MySQL, OpenAI API, Clerk | 🟢 LIVE |
+| [Dezain-AI.com](https://dezain-ai.com/) | NextJS, Typescript, TailwindCSS, MySQL, OpenAI API, Clerk, Stripe | 🟢 LIVE |
 | [Web Automation Bot](https://github.com/codebyboon/pythonbot) | Python, Selenium | ✅ COMPLETED |
 | [Parktech Landing Page](https://github.com/parktech-my/parktech-website)  | AstroJS, Typescript, Strapi | 🔴 IN PROGRESS |
 
