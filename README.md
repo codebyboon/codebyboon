@@ -17,7 +17,7 @@ Going to explore and expand myself more into different tech stacks with this new
 |------------|------------|--------|
 | [Dezain-AI.com](https://dezain-ai.com/) | NextJS, Typescript, TailwindCSS, MySQL, OpenAI API, Clerk, Stripe | 🟢 LIVE |
 | [Web Automation Bot](https://github.com/codebyboon/pythonbot) | Python, Selenium | ✅ COMPLETED |
-| [Parktech Landing Page](https://github.com/parktech-my/parktech-website)  | AstroJS, Typescript, Strapi | 🔴 IN PROGRESS |
+| [Parktech Landing Page](https://parktech.com.my/)  | AstroJS, Typescript, Strapi | 🟢 LIVE |
 
 ## 🔧 Most Used Languages
 
